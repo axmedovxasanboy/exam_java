@@ -1,0 +1,4 @@
+Feb 21, 2024 10:32:31 AM solution1.ConsoleLog main1
+FINE: Severe msg
+Feb 21, 2024 10:32:57 AM solution1.ConsoleLog main1
+FINE: Severe msg
